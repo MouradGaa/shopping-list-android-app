@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="OK">OK</string>
+    <string name="name">name</string>
+    <string name="description">Description</string>
+    <string name="Name">Name</string>
+    <string name="Price">Price</string>
+    <string name="Purchased">Purshased</string>
+    <string name="purchased">Purchased</string>
+    <string name="ShoppingItem">Shopping Item</string>
+    <string name="cancel">Cancel</string>
+    <string-array name="categories">
+        <item>Food</item>
+        <item>Electronics</item>
+        <item>Books</item>
+        <item>Clothes</item>
+    </string-array>
+</resources>
